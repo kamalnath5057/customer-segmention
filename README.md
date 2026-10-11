@@ -141,3 +141,4 @@ npm run dev
 6. **Visualizations**: Show scatter plots under **Visualizations Suite** demonstrating clear spatial cluster separation.
 7. **Real-time Customer Prediction**: Go to **Segment Predictor**. Adjust Age, Annual Income, Spending Score, and Purchase Frequency sliders, then click **Predict Customer Segment** to demonstrate live classification.
 8. **Project Report**: Show the embedded **Viva & Project Report** page for academic documentation.
+# customer-segmention
